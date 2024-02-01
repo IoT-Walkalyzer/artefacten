@@ -1,0 +1,1 @@
+Frequency of 28.306352362018366Hz based on 300 received matrix's.
